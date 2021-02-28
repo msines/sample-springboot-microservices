@@ -1,0 +1,9 @@
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Scott', 3200, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Trek', 7500, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Giant', 1400, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('BH', 1200, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Orbea', 1850, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Bianchi', 3500, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Berria', 1500, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Mondraker', 2200, NOW());
+INSERT INTO articulos (nombre, precio, create_at) VALUES('Specialized', 3000, NOW());

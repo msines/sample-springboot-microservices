@@ -1,2 +1,2 @@
-# sample-springboot-microservices
-Sample Project Springboot Microservices
+# simple-springboot-microservices
+Simple Project with Microservices and SpringBoot
